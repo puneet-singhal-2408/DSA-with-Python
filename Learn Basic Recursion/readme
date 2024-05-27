@@ -1,0 +1,4 @@
+It is a phenomenon when a function calls itself indefinitely, until a specified condition is fulfilled.
+
+when there is no base condition given for a particular recursive function, it gets called indefinitely which results in a Stack Overflow
+i.e, exceeding the memory limit of the recursion stack and hence the program terminates giving error.
